@@ -147,7 +147,7 @@ urllib.request.urlretrieve(
     'parkinsons.csv'
 )
 ```
-Then run all cells. Expected runtime: ~60–90 min (CPU) or ~30–40 min with N_ITER=20.
+Then run all cells.
 
 ### Local
 ```bash
